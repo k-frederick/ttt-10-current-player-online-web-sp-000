@@ -1,2 +1,2 @@
-def turn_count(board1)
+def turn_count(board)
 end
